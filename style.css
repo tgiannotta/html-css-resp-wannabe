@@ -72,8 +72,8 @@ img {
   clear: both;
 }
 
-/* SOLUZIONE Ho dovuto mettere 600px perchè non mi fa restringere di più il browser */
-@media screen and (max-width: 450px){
+/* SOLUZIONE*/
+@media screen and (max-width: 420px){
   body{
      background-color: blueviolet;
   }
