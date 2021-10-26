@@ -73,7 +73,7 @@ img {
 }
 
 /* SOLUZIONE Ho dovuto mettere 600px perchè non mi fa restringere di più il browser */
-@media screen and (max-width: 600px){
+@media screen and (max-width: 450px){
   body{
      background-color: blueviolet;
   }
